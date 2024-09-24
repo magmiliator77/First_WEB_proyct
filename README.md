@@ -1,2 +1,2 @@
-# First_WEB_proyct
+# First_WEB_proyect
  A school proyect I made.
